@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Onest';
+    src: local('Onest'),
+         url('/fonts/OnestExtraBold1602-hint.ttf') format('ttf'), 
+         url('/fonts/OnestExtraBold1602-hint.woff') format('woff'),
+         url('/fonts/OnestRegular1602-hint.ttf') format('ttf'),
+         url('/fonts/OnestRegular1602-hint.woff') format('woff'),
+  }
+
+  
